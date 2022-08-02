@@ -4,4 +4,5 @@ permalink: /teaching/
 
 ## Teaching
 
-test test
+- Theoretische Mechanik SoSe 2022
+- Quantenmechanik fuer Lehramt WiSe 21/22
