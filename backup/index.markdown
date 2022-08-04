@@ -8,7 +8,7 @@ layout: default
 Hello world! Currently the site is under construction..
 
 ## Pages
-[About](./_site/about/index.html)
-[CV](./_site/about/index.html)
-[Teaching](./_site/about/index.html)
+- [About](./about)
+- [CV](./about/index.html)
+- [Teaching](./teaching)
 
