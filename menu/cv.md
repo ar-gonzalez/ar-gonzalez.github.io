@@ -4,6 +4,6 @@ title: CV
 permalink: /cv
 ---
 
-### Education
+### Under Construction
 
-- MSc. Physics, Friedrich-Schiller-Universitaet Jena, Germany [2019 - 2021]
+
