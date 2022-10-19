@@ -4,6 +4,9 @@ title: "Wave Equation"
 permalink: /teaching/ppwise2022
 ---
 
+## The Manual
+The manual with all project tasks is available [here](/menu/teaching/wave_2022.pdf).
+
 ## The Project
 The Wave Equation project consists of an analytical and numerical part.
 Numerical Part topics:
