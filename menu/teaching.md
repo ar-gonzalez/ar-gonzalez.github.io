@@ -3,8 +3,8 @@ layout: page
 title: "Teaching"
 permalink: /teaching
 ---
-
-- [Projektpraktikum WiSe 22/23: Wave Equation](/teaching/ppwise2022)
-- Theoretische Mechanik SoSe 2022
-- Quantenmechanik fuer Lehramt WiSe 21/22
+- Computational Physics II SS 2023
+- [Projektpraktikum WS 22/23: Wave Equation](/teaching/ppwise2022)
+- Theoretische Mechanik SS 2022
+- Quantenmechanik fuer Lehramt WS 21/22
   
