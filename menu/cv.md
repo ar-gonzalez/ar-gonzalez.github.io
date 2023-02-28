@@ -12,7 +12,7 @@ permalink: /cv
 
 ### Thesis
 
-- **Master thesis**: Analytical Waveform Model of Balck Hole-Neutron Star binary systems
+- **Master thesis**: Analytical Waveform Model of Black Hole-Neutron Star binary systems
 - **Bachelor thesis**: [Optimization of the Electron Veto for the identification of hadronically decaying Tau leptons with the ATLAS detector](https://www.uni-goettingen.de/de/document/download/288e5460a87426975dcb65ae5a490067.pdf/Bachelorarbeit_Alejandra_Pillado_Gonzalez.pdf)
 
 ### Schools and Courses
