@@ -29,7 +29,7 @@ permalink: /cv
 ## Publications and Preprints
 
 - A. Gonzalez, R. Gamba, M. Breschi, F. Zappa, G. Carullo, S. Bernuzzi and A. Nagar. *Numerical-Relativity-Informed Effective-One-Body model for Black-Hole-Neutron-Star Mergers with Higher Modes and Spin Precession*, [arXiv:2212.03909 [gr-qc]](https://arxiv.org/abs/2212.03909)
-- A. Gonzalez, F. Zappa, M. Breschi, S. Bernuzzi, D. Radice, A. Adhikari, A. Camilletti, S. V. Chaurasia, G. Doulis and S. Padamata, et al. *Second release of the CoRe database of binary neutron star merger waveforms*, [arXiv:2210.16366 [gr-qc]](https://arxiv.org/abs/2210.16366)
+- A. Gonzalez, F. Zappa, M. Breschi, S. Bernuzzi, D. Radice, A. Adhikari, A. Camilletti, S. V. Chaurasia, G. Doulis and S. Padamata, et al. *Second release of the CoRe database of binary neutron star merger waveforms*, 2023 Class. Quantum Grav. [40 085011](https://dx.doi.org/10.1088/1361-6382/acc231)
 
 ## Miscellaneous
 
