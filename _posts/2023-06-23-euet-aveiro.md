@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "European Einstein Toolkit Meeting 2023 in Aveiro, Portugal"
+title: "Invited speaker at the European Einstein Toolkit Meeting 2023 in Aveiro, Portugal"
 author: "AG"
 categories: conference, seminar, invited talk
 tags: [conference, talks, nr, numerical, relativity, einsteintoolkit]
