@@ -37,4 +37,6 @@ permalink: /cv
 ## Miscellaneous
 
 - **Foreign Languages:** English (C1), German (C1), Japanese (B1), Italian (B1)
-- **Hobbies:** Outdoor activities (hiking, camping, sports), painting, bass guitar, reading, karaoke, and taking care of my cat (picture to be added)
+- **Hobbies:** Outdoor activities (hiking, camping, sports), painting, bass guitar, reading, karaoke, and taking care of my cat (the cute fluff in the picture below)
+
+![Boo!](../assets/img/yuzu.jpg "My cat Yuzu")
