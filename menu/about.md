@@ -11,7 +11,7 @@ My name is Alejandra Gonzalez and I’m a PhD student from Mexico at the Institu
 My research interests include but are not limited to: Gravitational Waves, Compact Binaries and Numerical Relativity.
 
 ### Working on
-- [TEOBResumS](https://bitbucket.org/eob_ihes/teobresums/src/master/): waveform model framework based on the EOB formalism.
+- [TEOBResumS](https://teobresums.bitbucket.io/): waveform model framework based on the EOB formalism.
 - [CoRe Database](https://core-gitlfs.tpi.uni-jena.de/): open data of binary neutron star waveforms.
 - [WATPy](https://git.tpi.uni-jena.de/core/watpy): waveform analysis tools in python.
 - [BAM](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.77.024027): evolution code for numerical relativity.
