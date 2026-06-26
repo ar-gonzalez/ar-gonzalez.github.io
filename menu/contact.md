@@ -5,11 +5,11 @@ permalink: /contact
 ---
 
 ### Office
-Room 206
+Office 112, Room 101,
 
-Theoretisch-Physikalisches Institut
+Complexe I+D+I, Parc BIT
 
-Fröbelstieg 1, 07743 Jena
+Palma, Spain
 
 ### Email
-[alejandra.gonzalez@uni-jena.de](mailto:alejandra.gonzalez@uni-jena.de)
+[ar.p-gonzalez@uib.es](mailto:ar.p-gonzalez@uib.es)

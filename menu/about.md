@@ -6,7 +6,8 @@ permalink: /about
 ![Boo!](../assets/img/about.jpg "It's a Me!")
 
 ### In short
-My name is Alejandra Gonzalez and I’m a PhD student from Mexico at the Institute of Theoretical Physics (TPI), University of Jena in Germany, under the supervision of [Prof. Sebastiano Bernuzzi](http://www.tpi.uni-jena.de/~bernuzzi/). 
+My name is Alejandra Gonzalez and I’m a Postdoc at the University of the Balearic Islands. 
+I did my PhD at the Institute of Theoretical Physics (TPI), University of Jena in Germany, under the supervision of [Prof. Sebastiano Bernuzzi](http://www.tpi.uni-jena.de/~bernuzzi/). 
 
 My research interests include but are not limited to: Gravitational Waves, Compact Binaries and Numerical Relativity.
 
