@@ -4,15 +4,19 @@ title: CV
 permalink: /cv
 ---
 
+## Employment
+- [2024-ongoing] Postdoctoral researcher, University of the Balearic Islands, Spain
+
 ## Education
 
-- [2021-ongoing] PhD in Physics, Friedrich-Schiller-University of Jena, Germany
+- [2021-2024] PhD in Physics, Friedrich-Schiller-University of Jena, Germany
 - [2019-2021] MSc. Physics, Friedrich-Schiller-University of Jena, Germany
 - [2015-2016] DAAD Academic Exchange, Georg-August-University of Goettingen, Germany
 - [2012-2017] BSc. Physics, Universidad Autonoma de Nuevo Leon, Mexico
 
 ### Thesis
 
+- **PhD thesis**: Gravitational Waveforms from Compact Binary Mergers with Matter
 - **Master thesis**: Analytical Waveform Model of Black Hole-Neutron Star binary systems
 - **Bachelor thesis**: [Optimization of the Electron Veto for the identification of hadronically decaying Tau leptons with the ATLAS detector](https://www.uni-goettingen.de/de/document/download/288e5460a87426975dcb65ae5a490067.pdf/Bachelorarbeit_Alejandra_Pillado_Gonzalez.pdf)
 
