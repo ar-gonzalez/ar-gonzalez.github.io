@@ -1,0 +1,8 @@
+// Override Hamilton's default font variables with Merriweather
+// Loaded BEFORE variables.scss so the !default values here lose to ours.
+
+// $display-font-family → usado en títulos (h1, h2)
+$display-font-family: "Merriweather", Georgia, "Times New Roman", serif !default;
+
+// $handwriting-font-family → texto manuscrito / acentos
+$handwriting-font-family: "Merriweather", Georgia, "Times New Roman", serif !default;
