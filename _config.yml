@@ -17,12 +17,28 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+exclude:
+  - backup
+  - menu/_site
+  - vendor
+  - .jekyll-cache
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-remote-theme]
+remote_theme: ngzhio/jekyll-theme-hamilton
+skin: midnight
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Alejandra Gonzalez'
-description:	       'Physicist'
+description:	       'Gravitational Waves | Numerical Relativity | Compact Binaries'
 author:              'AG'
+avatar: /avatar.jpeg
+disqus:  'Comment'
+google_analytics: 'alejandragonzalez'
+email: 'ar.p-gonzalez@uib.es'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
